@@ -1,0 +1,3 @@
+[submodule "L-MLDS-for-Tensor-Time-Series"]
+	path = L-MLDS-for-Tensor-Time-Series
+	url = git@github.com:VintageDesign/L-MLDS-for-Tensor-Time-Series.git
